@@ -33,7 +33,7 @@ function Dis() {
     return (
       <>
       <div className="container mt-5" style={{ width: "40%" }}>
-      <div className='card 'style={{boxShadow:"0 0 0 5px ",backgroundColor:"beige"}}>
+      <div className='card'style={{boxShadow:"0 0 0 5px ",backgroundColor:"beige"}}>
       <Link to={"AddUser"} className="btn btn-info btn-lg mb-3">AddUser</Link>
       <h2 className="bg-info text-center">Display Data</h2>
       <table className="table text-center">
